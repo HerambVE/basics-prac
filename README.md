@@ -1,3 +1,3 @@
-## This is the repo of my C language Practice
+## C Language Practice
 
-### The files in this repo contain the source files of basic implementations of patterns, loops, and input-output. 
+### The files in this repo contain the source codes of basic implementations of patterns, loops, and input-output. 
